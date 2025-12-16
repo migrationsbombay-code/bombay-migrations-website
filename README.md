@@ -1,2 +1,13 @@
-# bombay-migrations-website
-Official repository for Bombay Migrations website content and resources. Includes informational content related to Australian visas, student migration, skilled migration, PR pathways, and migration guidance maintained for digital publishing and updates.
+# Bombay Migrations – Australian Visa & Migration Resources
+
+This repository contains official website content and informational resources for **Bombay Migrations**, a migration consultancy focused on Australian visas.
+
+## Topics Covered
+- Australian Student Visas
+- Skilled Migration & PR Pathways
+- Family & Parent Visas
+- Visa Updates & Migration Guidance
+- Study in Australia Resources
+
+🌐 Website: https://bombaymigrations.com  
+📍 Serving students and migrants applying for Australia
